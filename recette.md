@@ -2,3 +2,5 @@
 
 Ingrédients
 - ...
+
+![](pate.jpg)
